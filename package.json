@@ -1,0 +1,18 @@
+{
+  "name": "mern2022-template",
+  "version": "1.0.0",
+  "description": "Tämä tehtävä sisältää sekä frontendin (client) että backendin (server) toteutusta. Tee React-osuudet frontend-kansioon, käytä haluamiasi alikansioita. Tee Node-osuudet backend-kansioon, käytä haluamiasi alikansioita. Frontendin muotoiluun voit käyttää joko React-Bootstrapia tai  Material-UI-kirjastoa HUOM! Muut UI-kirjastot eivät kelpaa!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-opiskelu:Savonia-mern/mern2022-suoritus-chean002-xamk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "2.7.1"
+  }
+}
