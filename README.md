@@ -1,3 +1,3 @@
-# mern-kesakurssi
+# kesäopiskelua
 
-Opiskelujen kesäkurssi MongoDb, Express, React, Node
+Opiskelujen kurssi MongoDb, Express, React, Node
